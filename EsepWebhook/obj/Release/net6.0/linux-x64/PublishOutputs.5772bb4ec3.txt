@@ -1,0 +1,7 @@
+/Users/alexandraseelig/Downloads/GitHub/esep-webhooks/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.deps.json
+/Users/alexandraseelig/Downloads/GitHub/esep-webhooks/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.runtimeconfig.json
+/Users/alexandraseelig/Downloads/GitHub/esep-webhooks/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.pdb
+/Users/alexandraseelig/Downloads/GitHub/esep-webhooks/EsepWebhook/bin/Release/net6.0/publish/Amazon.Lambda.Core.dll
+/Users/alexandraseelig/Downloads/GitHub/esep-webhooks/EsepWebhook/bin/Release/net6.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/alexandraseelig/Downloads/GitHub/esep-webhooks/EsepWebhook/bin/Release/net6.0/publish/Newtonsoft.Json.dll
+/Users/alexandraseelig/Downloads/GitHub/esep-webhooks/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.dll

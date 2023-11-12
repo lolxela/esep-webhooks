@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alexandraseelig/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj": {}
+    "/Users/alexandraseelig/Downloads/GitHub/esep-webhooks/EsepWebhook/EsepWebhook.csproj": {}
   },
   "projects": {
-    "/Users/alexandraseelig/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj": {
+    "/Users/alexandraseelig/Downloads/GitHub/esep-webhooks/EsepWebhook/EsepWebhook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alexandraseelig/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+        "projectUniqueName": "/Users/alexandraseelig/Downloads/GitHub/esep-webhooks/EsepWebhook/EsepWebhook.csproj",
         "projectName": "EsepWebhook",
-        "projectPath": "/Users/alexandraseelig/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+        "projectPath": "/Users/alexandraseelig/Downloads/GitHub/esep-webhooks/EsepWebhook/EsepWebhook.csproj",
         "packagesPath": "/Users/alexandraseelig/.nuget/packages/",
-        "outputPath": "/Users/alexandraseelig/EsepWebhook/src/EsepWebhook/obj/",
+        "outputPath": "/Users/alexandraseelig/Downloads/GitHub/esep-webhooks/EsepWebhook/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/Users/alexandraseelig/Library/Application Support/Godot/mono/GodotNuGetFallbackFolder"
